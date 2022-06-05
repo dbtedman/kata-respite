@@ -5,7 +5,7 @@
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-respite/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-respite/actions/workflows/ci.yml)
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-respite/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-respite/actions/workflows/sast.yml)
-![language: python](https://img.shields.io/badge/language-python%20%28planned%29-lightgray.svg?style=for-the-badge)
+![languages: rust and typescript](https://img.shields.io/badge/languages-rust%20and%20typescript%20%28planned%29-lightgray.svg?style=for-the-badge)
 
 Providing respite by matching desired capacity to available talent.
 
