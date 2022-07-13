@@ -5,7 +5,7 @@
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-respite/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-respite/actions/workflows/ci.yml)
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-respite/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-respite/actions/workflows/sast.yml)
-![languages: rust and typescript](https://img.shields.io/badge/languages-rust%20and%20typescript%20%28planned%29-lightgray.svg?style=for-the-badge)
+[![MIT License](https://img.shields.io/github/license/dbtedman/kata-respite?color=orange&style=for-the-badge)](https://github.com/dbtedman/kata-respite/blob/main/LICENSE.md)
 
 Providing respite by matching desired capacity to available talent.
 
@@ -39,16 +39,6 @@ make format
 
 ## Design
 
-### Domain Entities
-
-_Placeholder_
-
-### Domain Use Cases
-
-_Placeholder_
-
-### Gateways
-
 _Placeholder_
 
 ### Security Mitigations
@@ -77,7 +67,7 @@ _Placeholder_
 
 #### [A06:2021-Vulnerable and Outdated Components](https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/)
 
-[Snyk](https://snyk.io) and [Github Security](https://github.com/features/security) scan Gradle and NPM dependencies for
+[Snyk](https://snyk.io) and [Github Security](https://github.com/features/security) scan NPM dependencies for
 know vulnerabilities and create pull requests to resolve the vulnerabilities when available.
 
 #### [A07:2021-Identification and Authentication Failures](https://owasp.org/Top10/A07_2021-Identification_and_Authentication_Failures/)
